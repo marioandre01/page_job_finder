@@ -21,7 +21,7 @@
 
 ## 💻 Projeto
 
-Esse projeto teve como objetivo desenvolver uma página web inicial de uma empresa fictícia para encontrar vagas de emprego. O seu desenvolvimento foi feito por meio das videos aulas do "[Curso de HTML e CSS](https://www.youtube.com/watch?v=3a9Qd026DOI&list=PLnDvRpP8Bnez2LJGshXKtid2f-aUkFOqM)" do canal do youtube "Matheus Battisti - Hora de Codar".
+Esse projeto teve como objetivo desenvolver uma página web inicial de uma empresa fictícia para encontrar vagas de emprego. O seu desenvolvimento foi feito por meio das vídeos aulas do "[Curso de HTML e CSS](https://www.youtube.com/watch?v=3a9Qd026DOI&list=PLnDvRpP8Bnez2LJGshXKtid2f-aUkFOqM)" do canal do youtube "Matheus Battisti - Hora de Codar".
 
 ## 📋 Tecnologias
 
