@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-    Interface do Netflix - DIO
+    Page job finder 
 </h1>
 
 <p align="center"> 
